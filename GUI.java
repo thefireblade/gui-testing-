@@ -34,6 +34,12 @@ public class GUI extends JFrame {
     jbutton = new JButton ("Whatever");
 
     add(jbutton);
+  image1 = new ImageIcon(getClass().getResource("LoadingGif.gif"));
+
+    imageLabel = new JLabel (image1);
+
+    add(imageLabel);
+  }
 
   }
 
