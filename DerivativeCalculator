@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+
+public DerivativeCalculator {
+
+    double input;
+    double output;
+
+
+
+public static void main (string[args]) {
+    input = get.nextDouble();
+    g
+
+}
+
+/** makes the input into its derivative form **/
+public MicroController (double input) {
+    return output;
+}
+
+
+public ChainRuleController (double input) {
+
+}
+
+
+
+}
